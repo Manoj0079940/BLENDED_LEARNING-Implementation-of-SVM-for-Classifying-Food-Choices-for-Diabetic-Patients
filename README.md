@@ -34,6 +34,7 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 ## Program:
 
 Developed by: MANOJ M
+
 RegisterNumber:  212223230122
 ```
 # Import necessary libraries
